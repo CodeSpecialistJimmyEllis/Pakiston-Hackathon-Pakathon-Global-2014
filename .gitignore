@@ -1,0 +1,10 @@
+*.xnb
+
+bin
+Debug
+Content
+app.publish
+*.pbd
+*.deploy
+*.manifest
+*.application
